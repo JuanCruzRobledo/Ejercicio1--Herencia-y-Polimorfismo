@@ -6,6 +6,18 @@ Este proyecto tiene como objetivo aplicar los principios fundamentales de la **P
 
 ---
 
+## 📑 Tabla de Contenidos
+
+- [📚 Contenido del Proyecto](#-contenido-del-proyecto)
+- [🎯 Objetivos Didácticos](#-objetivos-didácticos)
+- [📸 UML Utilizado](#-uml-utilizado)
+- [🧪 Cómo probar el código](#-cómo-probar-el-código)
+- [🔐 Nota sobre Encapsulamiento](#-nota-sobre-encapsulamiento)
+- [📌 Conclusiones](#-conclusiones)
+- [🔧 Requisitos](#-requisitos)
+
+---
+
 ## 📚 Contenido del Proyecto
 
 Este proyecto incluye una estructura básica de clases que simulan vehículos, donde se modelan comportamientos comunes y específicos utilizando herencia.
@@ -52,6 +64,7 @@ Clase que contiene el método `main`, donde:
 ---
 
 ## 📸 UML Utilizado
+
 Se partió de un diagrama UML simple con las siguientes relaciones:
 
 ![img.png](img.png)
